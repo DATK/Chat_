@@ -1,0 +1,11 @@
+__pycache__
+db.txt
+Starter.py
+User_object.cpython-311.pyc
+backup.py
+bot.txt
+db_users.json
+db_users_bcp.json
+srv_start.bat
+ngrok.exe
+alf_generated.txt
